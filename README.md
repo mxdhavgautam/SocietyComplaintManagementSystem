@@ -12,7 +12,7 @@ It is a **user-friendly program** with an **easy-to-understand source code**.
 
 ### BuildNotes/Readme
 
-1. This program requires **Python 3.5 or above, MySQL Community 8.0.x or above, and Python MySQL Connector as well as pymysql (both installed using pip)** to be installed and working to function properly. Edits to both the `sql-tablescreation-final.py` and `main-final.py` files are needed to change MySQL credentials according to user specific values for the program to work, namely:
+1. This program requires **Python 3.5 or above, MySQL Community 8.0.x, and Python MySQL Connector as well as pymysql (both installed using pip)** to be installed and working to function properly. Edits to both the `sql-tablescreation-final.py` and `main-final.py` files are needed to change MySQL credentials according to user specific values for the program to work, namely:
 - the host, user and passwd values from `db = cntr.connect(host = 'localhost' , user = 'xyz' , passwd = '1234')` in line 3 of `sql-tablescreation-final.py`.
 - the same in line 9, `mycon=mysql.connector.connect(host = 'localhost', user = 'xyz', password = '1234', database = 'comp_sys')`, of `main-final.py`.
 
