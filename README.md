@@ -1,5 +1,5 @@
 ### About
-The purpose of this project is to help manage the many complaints of a residential area or society. It is capable of keeping records of lodged complaints and keep track of their status, i.e., pending or resolved.
+The purpose of this project/program is to help manage the many complaints of a residential area, society or hostel accommodation. It is capable of keeping records of lodged complaints and keeping track of their status, i.e., pending or resolved.
 
 The idea for this program was inspired after seeing how in a residential area, a lot of the complaint records regarding plumbing/wood work or any such thing are maintained in a register or notebook and keeping those records up to date is a tedious and inefficient task and how that system needed a refresh. This program can also be directly used to upgrade and optimise the complaint registry system of our college hostels as well.
 
