@@ -1,7 +1,9 @@
 ### About
 The purpose of this project is to help manage the many complaints of a residential area or society. It is capable of keeping records of lodged complaints and keep track of their status, i.e., pending or resolved.
 
-The idea for this program was inspired after seeing how in a residential area, a lot of the complaint records regarding plumbing/wood work or any such thing are maintained in a register or notebook and keeping those records up to date is a tedious and inefficient task and how that system needed a refresh. This program streamlines the same process while utilizing concepts such as **Database Management, Error Handling,** and **File Handling.**
+The idea for this program was inspired after seeing how in a residential area, a lot of the complaint records regarding plumbing/wood work or any such thing are maintained in a register or notebook and keeping those records up to date is a tedious and inefficient task and how that system needed a refresh. This program can also be directly used to upgrade and optimise the complaint registry system of our college hostels as well.
+
+This program streamlines the same process while utilizing concepts such as **Database Management, Error Handling,** and **File Handling.**
 - Database Management: All complaints and their statuses are stored and managed in a MySQL Database.
 - Error Handling: Use of Try and Except statements + Errors formatted to a user understandable syntax while maintaining program execution on encountering the same.
 - File Handling: All complaints entered are saved in the form of a record in a "log file" in the same directory of the program as a data backup.
